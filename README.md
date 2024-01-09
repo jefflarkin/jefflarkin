@@ -12,6 +12,12 @@ Ruby (on or off Rails), Python, Javascript/ECMAScript/NodeJS, German
 ## Barely Remeber How To Spell
 BASIC, Java, PHP, ASP, Perl, Assembly, ...
 
+## Other Things That Energize Me
+My Family, Travel, Banjos, Video Games, Other Music, Making, Programming, Astrophotography, Outdoor Adventures
+
+## Where You Can Find Me
+I gave up most social media, but you can sometimes find me on [LinkedIn](https://www.linkedin.com/in/jefflarkin/) or the [NVIDIA Developer Blog](https://developer.nvidia.com/blog/author/jlarkin/).
+
 <!--
 **jefflarkin/jefflarkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
