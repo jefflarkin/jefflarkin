@@ -7,7 +7,7 @@ I am a software architect at [NVIDIA](https://www.nvidia.com/) where I run a tea
 C, C++, Fortran, OpenACC, OpenMP, MPI, CUDA C++, CUDA Fortran, Shell Scripting, Parallel Programming, High Perfomance Computing
 
 ## Passable In
-Ruby (on or off Rails), Python, Javascript/ECMAScript/NodeJS
+Ruby (on or off Rails), Python, Javascript/ECMAScript/NodeJS, German
 
 ## Barely Remeber How To Spell
 BASIC, Java, PHP, ASP, Perl, Assembly, ...
